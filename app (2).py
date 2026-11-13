@@ -1,4 +1,6 @@
 
+%%writefile app.py
+
 import asyncio
 import os
 import re
