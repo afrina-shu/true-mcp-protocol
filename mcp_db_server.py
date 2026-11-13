@@ -1,3 +1,4 @@
+%%writefile mcp_db_server.py
 
 import json
 import os
